@@ -36,7 +36,7 @@ I enjoy turning messy datasets into actionable insights through clear visualizat
 **Independent project · Python, Tableau**
 Cleaned complex hotel booking records and developed an interactive dashboard to compare cancellation trends across deposit types, market segments, and seasonal arrival periods.
 
-### [Jakarta Air Quality Analysis](#) *(https://github.com/amalyea/jakarta-air-quality-analysis)*
+### [Jakarta Air Quality Analysis](https://github.com/amalyea/jakarta-air-quality-analysis)
 **Independent project · Python, Power BI**
 Processed historical PM2.5 measurements to build a comprehensive two-page dashboard. Explored annual, hourly, and location-based patterns to highlight variations in air quality and data coverage.
 
