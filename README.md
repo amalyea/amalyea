@@ -28,7 +28,7 @@ I enjoy turning messy datasets into actionable insights through clear visualizat
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white)
 ![Laravel](https://img.shields.io/badge/style=flat-square&Laravel-2e2e2e?logo=laravel)
-![Cisco](https://img.shields.io/badge/style=flat-square&Cisco-black?style=flat-square&logo=cisco)
+![Cisco](https://img.shields.io/badge/Cisco-black?style=flat-square&logo=cisco)
 
 ## 📊 Selected Projects
 
