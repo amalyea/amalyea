@@ -1,4 +1,4 @@
-# Hey there! I'm Amalia 👋
+# Hola! I'm Amalia 👋
 
 A Computer Science student at **BINUS University** passionate about data analytics, data science, and data engineering. 
 
