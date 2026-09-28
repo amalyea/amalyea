@@ -21,7 +21,6 @@ I enjoy turning messy datasets into actionable insights through clear visualizat
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square)
 ![Pentaho](https://img.shields.io/badge/Pentaho-005CA9?style=flat-square)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-663399?style=flat-square&logo=css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -43,10 +42,6 @@ Processed historical PM2.5 measurements to build a comprehensive two-page dashbo
 ### [LAPD Crime Case Status Analysis](https://github.com/amalyea/lapd-crime-status-analysis)
 **Team project · Python**
 Contributed to data wrangling, feature engineering, and exploratory visualizations. Collaborated in building models to evaluate target outcomes, comparing Logistic Regression and Random Forest performances.
-
-### [Indonesia Tourism & Weather Data Pipeline](https://github.com/amalyea/indonesia-tourism-data-pipeline)
-**Team project · Python, Pentaho, PostgreSQL**
-Engineered the Google Trends workflow, managing data collection, ingestion, wide-to-long transformation, and monthly aggregation to seamlessly integrate with national tourism and weather datasets.
 
 ## 📬 Let's Connect
 
